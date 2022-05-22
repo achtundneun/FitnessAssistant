@@ -1,0 +1,52 @@
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\bin\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17.exe.config
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\bin\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17.exe
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\bin\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17.pdb
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17.csprojAssemblyReference.cache
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\MainWindow.g.cs
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\Windows\RegistrationWindow.g.cs
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\App.g.cs
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17_MarkupCompile.cache
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17_MarkupCompile.lref
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\MainWindow.baml
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\Windows\RegistrationWindow.baml
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17.g.resources
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11_17.Properties.Resources.resources
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17.csproj.GenerateResource.cache
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17.csproj.CoreCompileInputs.cache
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17.exe
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17.pdb
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\Windows\Results.g.cs
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\Windows\Results.baml
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\bin\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17.exe.config
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\bin\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17.exe
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\bin\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17.pdb
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\MainWindow.g.cs
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\Windows\RegistrationWindow.g.cs
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\Windows\Results.g.cs
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\App.g.cs
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17_MarkupCompile.cache
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17_MarkupCompile.lref
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\MainWindow.baml
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\Windows\RegistrationWindow.baml
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\Windows\Results.baml
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17.g.resources
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11_17.Properties.Resources.resources
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17.csproj.GenerateResource.cache
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17.csproj.CoreCompileInputs.cache
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17.exe
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17.pdb
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17.csproj.AssemblyReference.cache
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17_Content.g.cs
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\bin\Debug\EntityFramework.dll
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\bin\Debug\EntityFramework.SqlServer.dll
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\bin\Debug\EntityFramework.xml
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\bin\Debug\EntityFramework.SqlServer.xml
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\bin\Debug\ru\EntityFramework.resources.dll
+D:\проекты Visual Studio\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17.csproj.CopyComplete
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\bin\Debug\EntityFramework.dll
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\bin\Debug\EntityFramework.xml
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17_Content.g.cs
+C:\Users\Преподаватель\source\repos\FitnessAssistant_Nikitin_Liventsev2ISP11-17\obj\Debug\FitnessAssistant_Nikitin_Liventsev2ISP11-17.csproj.CopyComplete
